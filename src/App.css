@@ -1,0 +1,26 @@
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-info{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.travel-button{
+    border-radius: 5px;
+    margin: 3px;
+    background-color: transparent;
+    padding: 3px;
+}
+
+.travel-button:hover{
+    background-color: #ccc;
+}
+
+.travel-button:active{
+    background-color: #cccccc88;
+}

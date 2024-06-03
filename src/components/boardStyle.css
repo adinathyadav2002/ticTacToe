@@ -1,0 +1,20 @@
+.board-row {
+  margin: 0;
+  padding: 0;
+  height: 45px;
+}
+
+.board {
+  /* height: 100vh;
+    width: 100vw;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+.status{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
