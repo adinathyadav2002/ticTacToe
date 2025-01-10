@@ -2,7 +2,7 @@
 
 ## 📋 Description
 
-This project is a React-based web application designed to [briefly describe your app's purpose, e.g., "display movie details and manage a watch history."]
+This project is a React-based web application designed to [Learn React].
 
 ## 🛠️ Technologies Used
 
@@ -42,7 +42,3 @@ For questions or suggestions, please contact:
 [adinathsyadav2016@gmail.com]
 
 **Happy coding!** 🚀
-
-```
-
-```
